@@ -1,4 +1,8 @@
-### Hi there 👋
+### What's up bro?
+
+Good to see you here. Welcome to our website. Not much to see yet but just wait we'll get there. 
+
+# AIDAN O'GARA DATA SCIENCE
 
 <!--
 **aogara-ds/aogara-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
